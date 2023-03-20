@@ -1,0 +1,28 @@
+html, body {
+    height: 100;
+}
+body {
+    text-align: center;
+}
+#judul {
+    text-align: left;
+    background-color: aqua;
+}
+
+.kotak {
+    width: 25px;
+    height: 25px;
+    margin: 10px auto;
+}
+.merah {
+    background-color: red;
+}
+.hijau {
+    background-color: green;
+}
+.biru {
+    background-color: blue;
+}
+.biru-muda {
+    background-color: lightblue;
+}
